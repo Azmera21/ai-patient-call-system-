@@ -1,0 +1,5 @@
+Call SID: CA28ba5c6716d0679bed452ffd646a8963
+Duration: 6s
+Date: 2026-07-02 02:46:58+00:00
+
+ This call may be recorded for quality and training purposes. An application error has occurred. Goodbye.

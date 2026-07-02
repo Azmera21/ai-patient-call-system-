@@ -1,0 +1,307 @@
+[
+  {
+    "call_sid": "CA504f7e46c2de6220694f2ba6a4558bc3",
+    "mp3": "recordings\\call_01_RE4882a865387e198e6de1595f8b9fa1d3.mp3",
+    "transcript": "transcripts\\transcript_01_CA504f7e46c2de6220694f2ba6a4558bc3.txt"
+  },
+  {
+    "call_sid": "CAd0deb04073211ddb493f26917474725d",
+    "mp3": "recordings\\call_02_RE7c496d9994ccf7818b5beaf6ddf75e31.mp3",
+    "transcript": "transcripts\\transcript_02_CAd0deb04073211ddb493f26917474725d.txt"
+  },
+  {
+    "call_sid": "CA9ffab57b9b2728ef62c90b49aa73d149",
+    "mp3": "recordings\\call_03_REab3f12db03cce2b8323b6a196f5bc8f1.mp3",
+    "transcript": "transcripts\\transcript_03_CA9ffab57b9b2728ef62c90b49aa73d149.txt"
+  },
+  {
+    "call_sid": "CA1e2e283531f7150b5042e2936473e253",
+    "mp3": "recordings\\call_04_RE15b11a167730d9c4a5a2016f9672abeb.mp3",
+    "transcript": "transcripts\\transcript_04_CA1e2e283531f7150b5042e2936473e253.txt"
+  },
+  {
+    "call_sid": "CAf1dafb43bdf0c70e543ee3ba999cee93",
+    "mp3": "recordings\\call_05_RE76fcb115ba9f78424a6e666ceb12d83f.mp3",
+    "transcript": "transcripts\\transcript_05_CAf1dafb43bdf0c70e543ee3ba999cee93.txt"
+  },
+  {
+    "call_sid": "CA626504e60c70c56565362b03dd57dfc8",
+    "mp3": "recordings\\call_06_RE770826d149027d6840f3c42774c9f79f.mp3",
+    "transcript": "transcripts\\transcript_06_CA626504e60c70c56565362b03dd57dfc8.txt"
+  },
+  {
+    "call_sid": "CAc39a5da65854253c894ab58965a99857",
+    "mp3": "recordings\\call_07_REe10f9e85fd1d07b2431874035cc729f6.mp3",
+    "transcript": "transcripts\\transcript_07_CAc39a5da65854253c894ab58965a99857.txt"
+  },
+  {
+    "call_sid": "CAee423d2924b46632c76ec38f498d113d",
+    "mp3": "recordings\\call_08_REba88520a23e570d205abe2fd1067dd58.mp3",
+    "transcript": "transcripts\\transcript_08_CAee423d2924b46632c76ec38f498d113d.txt"
+  },
+  {
+    "call_sid": "CA0f3a83b25776bcfd073fe3990d5cc459",
+    "mp3": "recordings\\call_09_RE57275d04feb9859bd07c34be8c5f3bf0.mp3",
+    "transcript": "transcripts\\transcript_09_CA0f3a83b25776bcfd073fe3990d5cc459.txt"
+  },
+  {
+    "call_sid": "CAc321ddc1d429a0030a8da1f38acc87b2",
+    "mp3": "recordings\\call_10_RE854b13422cffaaa954844946352f669b.mp3",
+    "transcript": "transcripts\\transcript_10_CAc321ddc1d429a0030a8da1f38acc87b2.txt"
+  },
+  {
+    "call_sid": "CA5597ffddc7ff65a9e6cc83105379ebe3",
+    "mp3": "recordings\\call_11_RE6629531ebc9409da9b091f040610524b.mp3",
+    "transcript": "transcripts\\transcript_11_CA5597ffddc7ff65a9e6cc83105379ebe3.txt"
+  },
+  {
+    "call_sid": "CAdc01cc5dff852ed05dc4ce1741c66eb8",
+    "mp3": "recordings\\call_12_REaaa1781b9734e1043f757429a317166f.mp3",
+    "transcript": "transcripts\\transcript_12_CAdc01cc5dff852ed05dc4ce1741c66eb8.txt"
+  },
+  {
+    "call_sid": "CA2fac37acf141bab52b1d01019e0c5b9d",
+    "mp3": "recordings\\call_13_RE8b46478eb97293e728c2ccda8c86685b.mp3",
+    "transcript": "transcripts\\transcript_13_CA2fac37acf141bab52b1d01019e0c5b9d.txt"
+  },
+  {
+    "call_sid": "CA497b3d0faa21c043351d95cbf356e703",
+    "mp3": "recordings\\call_14_RE249fd1659c106064cbb1f050f7749a2c.mp3",
+    "transcript": "transcripts\\transcript_14_CA497b3d0faa21c043351d95cbf356e703.txt"
+  },
+  {
+    "call_sid": "CA9ec9220b8d6ec9c126b5c8b927f24dff",
+    "mp3": "recordings\\call_15_RE78fcf10ea15caeda4e748166e1866188.mp3",
+    "transcript": "transcripts\\transcript_15_CA9ec9220b8d6ec9c126b5c8b927f24dff.txt"
+  },
+  {
+    "call_sid": "CA7b1836141cc838394c50e2098d56ea33",
+    "mp3": "recordings\\call_16_RE3073197bec1a6b36074d2fabf08a1573.mp3",
+    "transcript": "transcripts\\transcript_16_CA7b1836141cc838394c50e2098d56ea33.txt"
+  },
+  {
+    "call_sid": "CA2a7c6ea09f6928c84155463de31eb50c",
+    "mp3": "recordings\\call_17_RE4cfbd056dd1bbdf7658044b49c26aaee.mp3",
+    "transcript": "transcripts\\transcript_17_CA2a7c6ea09f6928c84155463de31eb50c.txt"
+  },
+  {
+    "call_sid": "CA07c3802a87ecc43616d1b26b9ff730c4",
+    "mp3": "recordings\\call_18_RE62e80270451c22abe2072457a4262ee4.mp3",
+    "transcript": "transcripts\\transcript_18_CA07c3802a87ecc43616d1b26b9ff730c4.txt"
+  },
+  {
+    "call_sid": "CAd08e61013eda223d5e869e05c0695c6b",
+    "mp3": "recordings\\call_19_REeddb050cdcdef402f80263e464ca58b0.mp3",
+    "transcript": "transcripts\\transcript_19_CAd08e61013eda223d5e869e05c0695c6b.txt"
+  },
+  {
+    "call_sid": "CAede7eb297dd45b6c7515b806327d0b89",
+    "mp3": "recordings\\call_20_RE8b4bfab21a98a3ee5210b55056861d32.mp3",
+    "transcript": "transcripts\\transcript_20_CAede7eb297dd45b6c7515b806327d0b89.txt"
+  },
+  {
+    "call_sid": "CAb6d33fca614e7279ab5fe62c386f86da",
+    "mp3": "recordings\\call_21_RE41ba197b7ea2c47f1df7317faec8f284.mp3",
+    "transcript": "transcripts\\transcript_21_CAb6d33fca614e7279ab5fe62c386f86da.txt"
+  },
+  {
+    "call_sid": "CA9b4baca923f06de35d6a6c3a09faa09e",
+    "mp3": "recordings\\call_22_REe45135427d11afaffcb15f55def07254.mp3",
+    "transcript": "transcripts\\transcript_22_CA9b4baca923f06de35d6a6c3a09faa09e.txt"
+  },
+  {
+    "call_sid": "CAc90fff9fea15a83861445700f1be4aaf",
+    "mp3": "recordings\\call_23_REe96eaaf7ac86b48270c135f71cc7eed6.mp3",
+    "transcript": "transcripts\\transcript_23_CAc90fff9fea15a83861445700f1be4aaf.txt"
+  },
+  {
+    "call_sid": "CA07624efa988b38836832fd954cab8f12",
+    "mp3": "recordings\\call_24_REc05522bd96828a63ee505a2a75eb4b9c.mp3",
+    "transcript": "transcripts\\transcript_24_CA07624efa988b38836832fd954cab8f12.txt"
+  },
+  {
+    "call_sid": "CA5cd742fe0bbdfd6f015acde9c688abd3",
+    "mp3": "recordings\\call_25_RE574291e0e532b28cbc0cd8c291d1e730.mp3",
+    "transcript": "transcripts\\transcript_25_CA5cd742fe0bbdfd6f015acde9c688abd3.txt"
+  },
+  {
+    "call_sid": "CA4540009db0f48828b49a87c53731d379",
+    "mp3": "recordings\\call_26_REc071e488d6cc811b53e301edf23e198f.mp3",
+    "transcript": "transcripts\\transcript_26_CA4540009db0f48828b49a87c53731d379.txt"
+  },
+  {
+    "call_sid": "CA1e04f7b4e992ea6efc5edbf3f25932cb",
+    "mp3": "recordings\\call_27_RE1ae8aaf732dfcef6f0e6b2b3a22f4da2.mp3",
+    "transcript": "transcripts\\transcript_27_CA1e04f7b4e992ea6efc5edbf3f25932cb.txt"
+  },
+  {
+    "call_sid": "CAa1690ac79c1b960a0d648e25dae570f9",
+    "mp3": "recordings\\call_28_REb09fb7628d20af529f4e49c1d2a5ca08.mp3",
+    "transcript": "transcripts\\transcript_28_CAa1690ac79c1b960a0d648e25dae570f9.txt"
+  },
+  {
+    "call_sid": "CA027704496a21b41a704ac5ae990be978",
+    "mp3": "recordings\\call_29_RE9e27102747b9565bcc38f4ef040bdb28.mp3",
+    "transcript": "transcripts\\transcript_29_CA027704496a21b41a704ac5ae990be978.txt"
+  },
+  {
+    "call_sid": "CA97f34a3750918b418d543096a360a2ae",
+    "mp3": "recordings\\call_30_REa7f6d624171006ab7b239768cc92618c.mp3",
+    "transcript": "transcripts\\transcript_30_CA97f34a3750918b418d543096a360a2ae.txt"
+  },
+  {
+    "call_sid": "CA0bffa2e101e0591f2e3fb04504b7774e",
+    "mp3": "recordings\\call_31_REfbfa5835d867cfe8b71a193c914befa8.mp3",
+    "transcript": "transcripts\\transcript_31_CA0bffa2e101e0591f2e3fb04504b7774e.txt"
+  },
+  {
+    "call_sid": "CA022ff7beac91beedb8e24a63ae0f3141",
+    "mp3": "recordings\\call_32_REb5f1e8fd5ec1d6b0f10b15b58c49acda.mp3",
+    "transcript": "transcripts\\transcript_32_CA022ff7beac91beedb8e24a63ae0f3141.txt"
+  },
+  {
+    "call_sid": "CA42a4b6d45816cec7ed35a95e79a61caa",
+    "mp3": "recordings\\call_33_REc8ecf107325799283ea4bb0fd2d09635.mp3",
+    "transcript": "transcripts\\transcript_33_CA42a4b6d45816cec7ed35a95e79a61caa.txt"
+  },
+  {
+    "call_sid": "CA28ba5c6716d0679bed452ffd646a8963",
+    "mp3": "recordings\\call_34_RE9a75fb6cf6c963b5fef652487b1f870c.mp3",
+    "transcript": "transcripts\\transcript_34_CA28ba5c6716d0679bed452ffd646a8963.txt"
+  },
+  {
+    "call_sid": "CAcff595be2a4b7cae1101ce5c5e0f02d5",
+    "mp3": "recordings\\call_35_RE545b4390c675ff37ac175116917de589.mp3",
+    "transcript": "transcripts\\transcript_35_CAcff595be2a4b7cae1101ce5c5e0f02d5.txt"
+  },
+  {
+    "call_sid": "CAac59046357ba2d28c664ab033e5960a4",
+    "mp3": "recordings\\call_36_REbeaeb6622cffa736db589c46fa59ea29.mp3",
+    "transcript": "transcripts\\transcript_36_CAac59046357ba2d28c664ab033e5960a4.txt"
+  },
+  {
+    "call_sid": "CAc2afe869fdd4bedc04c7184bf9f5d8f5",
+    "mp3": "recordings\\call_37_RE7832133517360d6793de97e77ea70ccd.mp3",
+    "transcript": "transcripts\\transcript_37_CAc2afe869fdd4bedc04c7184bf9f5d8f5.txt"
+  },
+  {
+    "call_sid": "CA1a6dedfcafcacbfaf9c3aa54f430e1c8",
+    "mp3": "recordings\\call_38_REcdd3b676fba31f8c1fc615b3a11a492c.mp3",
+    "transcript": "transcripts\\transcript_38_CA1a6dedfcafcacbfaf9c3aa54f430e1c8.txt"
+  },
+  {
+    "call_sid": "CAfc0977b4b8c970fbc800a9c07b644a5d",
+    "mp3": "recordings\\call_39_RE8fbe2618cef2ae4e199d530bac2f01d2.mp3",
+    "transcript": "transcripts\\transcript_39_CAfc0977b4b8c970fbc800a9c07b644a5d.txt"
+  },
+  {
+    "call_sid": "CA68c341a56fe78c597aa6ee627d7e3249",
+    "mp3": "recordings\\call_40_RE776f35fd9a2386f1925389f32fe73584.mp3",
+    "transcript": "transcripts\\transcript_40_CA68c341a56fe78c597aa6ee627d7e3249.txt"
+  },
+  {
+    "call_sid": "CA4af338d93bdc53896e1c07221c8b4218",
+    "mp3": "recordings\\call_41_RE45941842083480f9e1aed27c467c3674.mp3",
+    "transcript": "transcripts\\transcript_41_CA4af338d93bdc53896e1c07221c8b4218.txt"
+  },
+  {
+    "call_sid": "CA46ab03e701b3bf2aac164f95c3282dd3",
+    "mp3": "recordings\\call_42_RE178d6515066634c63397ec309f2264f0.mp3",
+    "transcript": "transcripts\\transcript_42_CA46ab03e701b3bf2aac164f95c3282dd3.txt"
+  },
+  {
+    "call_sid": "CAa451f569e287abfe89ece2bdc7ca20d8",
+    "mp3": "recordings\\call_43_RE239612f4ef8d8922307ce02ac160d152.mp3",
+    "transcript": "transcripts\\transcript_43_CAa451f569e287abfe89ece2bdc7ca20d8.txt"
+  },
+  {
+    "call_sid": "CA74fa46db9dad0a763df508a92421ea7d",
+    "mp3": "recordings\\call_44_RE8ea6917c465a27973552fb8486e284cd.mp3",
+    "transcript": "transcripts\\transcript_44_CA74fa46db9dad0a763df508a92421ea7d.txt"
+  },
+  {
+    "call_sid": "CAb56fd8f0318aee257a1d7cec35fa0994",
+    "mp3": "recordings\\call_45_RE16518fd1cb44e1cda169b8fae82632a4.mp3",
+    "transcript": "transcripts\\transcript_45_CAb56fd8f0318aee257a1d7cec35fa0994.txt"
+  },
+  {
+    "call_sid": "CA10ed17550447cb9b642ddc9fa98255f3",
+    "mp3": "recordings\\call_46_RE7840244c6baa92f23b59a2ea6894cee7.mp3",
+    "transcript": "transcripts\\transcript_46_CA10ed17550447cb9b642ddc9fa98255f3.txt"
+  },
+  {
+    "call_sid": "CAffc15efcdf27eefd900e369035089db8",
+    "mp3": "recordings\\call_47_RE1a16c458662d04295e6d58e1f9d043b3.mp3",
+    "transcript": "transcripts\\transcript_47_CAffc15efcdf27eefd900e369035089db8.txt"
+  },
+  {
+    "call_sid": "CAadea6c2f12f14b4123ab73bd17283a71",
+    "mp3": "recordings\\call_48_REa11f676cec276d6369c9a139c5de0b8b.mp3",
+    "transcript": "transcripts\\transcript_48_CAadea6c2f12f14b4123ab73bd17283a71.txt"
+  },
+  {
+    "call_sid": "CA644eac233a9b6075c1bec13abcac0274",
+    "mp3": "recordings\\call_49_RE8148a5cc1c7c5528cf2ac12bdcb6fd21.mp3",
+    "transcript": "transcripts\\transcript_49_CA644eac233a9b6075c1bec13abcac0274.txt"
+  },
+  {
+    "call_sid": "CAd78d54214d01409dac5cc93c6997eecf",
+    "mp3": "recordings\\call_50_RE4e9d1a9ba42ae754ed8b19a68fc5068f.mp3",
+    "transcript": "transcripts\\transcript_50_CAd78d54214d01409dac5cc93c6997eecf.txt"
+  },
+  {
+    "call_sid": "CAe392495dcde0e03963fcb6b26bfdd786",
+    "mp3": "recordings\\call_51_RE447d3e389dffd24cc3bc7b8e86ed6343.mp3",
+    "transcript": "transcripts\\transcript_51_CAe392495dcde0e03963fcb6b26bfdd786.txt"
+  },
+  {
+    "call_sid": "CAeec9fbfe82894b47ab8f5cceef08c639",
+    "mp3": "recordings\\call_52_RE6fa8029835467cd872a4f8194084e278.mp3",
+    "transcript": "transcripts\\transcript_52_CAeec9fbfe82894b47ab8f5cceef08c639.txt"
+  },
+  {
+    "call_sid": "CA2c95b58716d95fd5896d41910a4177a4",
+    "mp3": "recordings\\call_53_RE8f67b0097603bc9eaebb66f3367ce17d.mp3",
+    "transcript": "transcripts\\transcript_53_CA2c95b58716d95fd5896d41910a4177a4.txt"
+  },
+  {
+    "call_sid": "CA40d13b80fdaf7b0f30bd5e929bd4b64c",
+    "mp3": "recordings\\call_54_RE00a6d5cdcb8f9a03bd77a381b783f957.mp3",
+    "transcript": "transcripts\\transcript_54_CA40d13b80fdaf7b0f30bd5e929bd4b64c.txt"
+  },
+  {
+    "call_sid": "CA8cb05e53db8225b036bf051ad3b89c83",
+    "mp3": "recordings\\call_55_RE1ffd21a2bceb53a6f32123dacfbeee74.mp3",
+    "transcript": "transcripts\\transcript_55_CA8cb05e53db8225b036bf051ad3b89c83.txt"
+  },
+  {
+    "call_sid": "CAb9f39b89eade0e2b526a4e3e87f413b0",
+    "mp3": "recordings\\call_56_RE49d8b9409679d3b56a9f2f2d6a2c5df8.mp3",
+    "transcript": "transcripts\\transcript_56_CAb9f39b89eade0e2b526a4e3e87f413b0.txt"
+  },
+  {
+    "call_sid": "CAaf0f551df143d8b6bb5b0a7bf25fcdd9",
+    "mp3": "recordings\\call_57_RE29130370f4639e1965bbb17f61714c05.mp3",
+    "transcript": "transcripts\\transcript_57_CAaf0f551df143d8b6bb5b0a7bf25fcdd9.txt"
+  },
+  {
+    "call_sid": "CAee01ebd26ae580de6f4571ab4bb41394",
+    "mp3": "recordings\\call_58_REb92407a503981dc0141d6a30bc983219.mp3",
+    "transcript": "transcripts\\transcript_58_CAee01ebd26ae580de6f4571ab4bb41394.txt"
+  },
+  {
+    "call_sid": "CA590cb2a705f846af016f22f4ae75bf85",
+    "mp3": "recordings\\call_59_RE2d6a3e1ba931086e4ad067246abe6f0d.mp3",
+    "transcript": "transcripts\\transcript_59_CA590cb2a705f846af016f22f4ae75bf85.txt"
+  },
+  {
+    "call_sid": "CA0868abee2635f0ab0fc5584d28c93b18",
+    "mp3": "recordings\\call_60_RE05679c225b1ac3a66794d96791f55116.mp3",
+    "transcript": "transcripts\\transcript_60_CA0868abee2635f0ab0fc5584d28c93b18.txt"
+  },
+  {
+    "call_sid": "CA0b854a178fe2bcc1b37c4f53a23573b5",
+    "mp3": "recordings\\call_61_REe9d0eac27605ec763e1cd0bf299819e5.mp3",
+    "transcript": "transcripts\\transcript_61_CA0b854a178fe2bcc1b37c4f53a23573b5.txt"
+  }
+]

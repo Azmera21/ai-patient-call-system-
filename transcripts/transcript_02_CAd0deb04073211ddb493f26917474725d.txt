@@ -1,0 +1,5 @@
+Call SID: CAd0deb04073211ddb493f26917474725d
+Duration: 60s
+Date: 2026-07-02 04:03:50+00:00
+
+ This call may be recorded for quality and training purposes. Hi, I'm calling to set up a physical. I think I'm a new patient. Would you like to create a demo patient profile and just need your first and last name to get started? Yes, I'd like to register as a new patient and schedule an annual physical. Great. Can you please tell me your first and last name? My name is Emily Wilson. Your patient profile is set up and your date of birth is July 4, 2000. How can I help you today? I'd like to schedule an annual physical, please.

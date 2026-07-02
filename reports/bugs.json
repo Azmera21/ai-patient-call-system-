@@ -1,0 +1,596 @@
+[
+  {
+    "severity": "MEDIUM",
+    "type": "3. Misunderstanding patient requests",
+    "agent_said": "I'll book you for the next available routine office visit to discuss your nausea from lysine pro",
+    "problem": "The agent incorrectly understood the patient's medication as 'lysine pro' instead of 'lisinopril'.",
+    "expected": "The agent should have correctly understood the patient's medication as 'lisinopril' and booked the appointment accordingly.",
+    "timestamp": "01:30",
+    "file": "transcript_01_CA504f7e46c2de6220694f2ba6a4558bc3.txt"
+  },
+  {
+    "severity": "MEDIUM",
+    "type": "3. Misunderstanding patient requests",
+    "agent_said": "You want to schedule a routine offer?",
+    "problem": "The agent seemed to misunderstand the patient's request again, using the phrase 'routine offer' instead of 'routine office visit'.",
+    "expected": "The agent should have confirmed the appointment booking for the patient to discuss their nausea from lisinopril.",
+    "timestamp": "02:50",
+    "file": "transcript_01_CA504f7e46c2de6220694f2ba6a4558bc3.txt"
+  },
+  {
+    "severity": "LOW",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "Your patient profile is set up and your date of birth is July 4th, 2000 for demo purposes.",
+    "problem": "The agent exposed internal/demo language to the patient, which may cause confusion.",
+    "expected": "The agent should not have mentioned 'demo purposes' to the patient.",
+    "timestamp": "00:20",
+    "file": "transcript_01_CA504f7e46c2de6220694f2ba6a4558bc3.txt"
+  },
+  {
+    "severity": "MEDIUM",
+    "type": "5. Incomplete or confusing answers",
+    "agent_said": "I can submit a case for the specific",
+    "problem": "The agent's response was incomplete and did not provide clear information to the patient.",
+    "expected": "The agent should have provided a clear and complete response to the patient's request.",
+    "timestamp": "01:10",
+    "file": "transcript_01_CA504f7e46c2de6220694f2ba6a4558bc3.txt"
+  },
+  {
+    "severity": "LOW",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "Would you like to create a demo patient profile",
+    "problem": "The agent exposed internal/demo language to the patient",
+    "expected": "The agent should have said something like 'Let's get started with creating your patient profile'",
+    "timestamp": "00:05",
+    "file": "transcript_02_CAd0deb04073211ddb493f26917474725d.txt"
+  },
+  {
+    "severity": "MEDIUM",
+    "type": "3. Misunderstanding patient requests",
+    "agent_said": "Would you like to create a DemoCation profile so I can help you further?",
+    "problem": "The agent asked for a DemoCation profile instead of addressing the patient's immediate concern about not feeling well.",
+    "expected": "The agent should have asked follow-up questions about the patient's symptoms or offered to connect them with a provider.",
+    "timestamp": "00:20",
+    "file": "transcript_03_CA9ffab57b9b2728ef62c90b49aa73d149.txt"
+  },
+  {
+    "severity": "MEDIUM",
+    "type": "5. Incomplete or confusing answers",
+    "agent_said": "Your patient profile is set up and your date of birth is July 4, 2000 for demo purposes.",
+    "problem": "The agent provided unnecessary and potentially confusing information about the patient's date of birth being set for demo purposes.",
+    "expected": "The agent should have focused on addressing the patient's concerns and not provided unnecessary information.",
+    "timestamp": "00:40",
+    "file": "transcript_03_CA9ffab57b9b2728ef62c90b49aa73d149.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "4. Not escalating urgent cases like chest pain",
+    "agent_said": "Sounds like you're having a tough time. Would you like to speak with a provider about how you're feeling or would you prefer I connect you to our clinic support team for more help?",
+    "problem": "The agent did not escalate the patient's case as urgent, despite the patient expressing general discomfort and uncertainty about their symptoms.",
+    "expected": "The agent should have prioritized connecting the patient with a provider or a more qualified support team member to assess their symptoms and provide guidance.",
+    "timestamp": "01:00",
+    "file": "transcript_03_CA9ffab57b9b2728ef62c90b49aa73d149.txt"
+  },
+  {
+    "severity": "LOW",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "You've reached the pretty good AI test line",
+    "problem": "The agent exposed internal/demo language to the patient, which could cause confusion.",
+    "expected": "The agent should not have exposed internal/demo language to the patient and instead provided a more professional and patient-centric response.",
+    "timestamp": "01:50",
+    "file": "transcript_03_CA9ffab57b9b2728ef62c90b49aa73d149.txt"
+  },
+  {
+    "severity": "MEDIUM",
+    "type": "3. Misunderstanding patient requests",
+    "agent_said": "Would you like to create a demo patient profile so I can help you further?",
+    "problem": "The agent didn't address the patient's initial concern about needing to see a doctor for allergy or cold issues.",
+    "expected": "The agent should have addressed the patient's concern before creating a demo patient profile.",
+    "timestamp": "00:05",
+    "file": "transcript_04_CA1e2e283531f7150b5042e2936473e253.txt"
+  },
+  {
+    "severity": "LOW",
+    "type": "5. Incomplete or confusing answers",
+    "agent_said": "Your patient profile is set up as Sarah Brown with a date of birth of July 4, 2000 for demo purposes.",
+    "problem": "The agent provided a date of birth without confirming it with the patient first.",
+    "expected": "The agent should have asked for the patient's date of birth before setting up the profile.",
+    "timestamp": "01:00",
+    "file": "transcript_04_CA1e2e283531f7150b5042e2936473e253.txt"
+  },
+  {
+    "severity": "MEDIUM",
+    "type": "6. Unnatural conversation flow",
+    "agent_said": "Just to clarify, your date of birth can't be the 33rd.",
+    "problem": "The agent's response seemed robotic and didn't acknowledge the patient's attempt to calculate their birth year based on their age.",
+    "expected": "The agent should have responded in a more natural and empathetic way, acknowledging the patient's effort to calculate their birth year.",
+    "timestamp": "01:30",
+    "file": "transcript_04_CA1e2e283531f7150b5042e2936473e253.txt"
+  },
+  {
+    "severity": "MEDIUM",
+    "type": "2. Scheduling on closed days like weekends",
+    "agent_said": "We don't have a waiting list for Sundays since the clinic is always closed that day.",
+    "problem": "The agent should have directly addressed the patient's request for a Sunday appointment by reiterating that Sundays are not an option and providing alternative solutions earlier in the conversation.",
+    "expected": "The agent should have clearly stated that Sunday appointments are not available and offered weekday alternatives from the start.",
+    "timestamp": "01:30",
+    "file": "transcript_05_CAf1dafb43bdf0c70e543ee3ba999cee93.txt"
+  },
+  {
+    "severity": "MEDIUM",
+    "type": "3. Misunderstanding patient requests",
+    "agent_said": "Your patient profile is set up, and your date of birth is July 4, 2000, for demo purposes.",
+    "problem": "The agent incorrectly assumed the patient's date of birth and didn't correct it promptly.",
+    "expected": "The agent should have asked for the correct date of birth or allowed the patient to correct it without assuming a value.",
+    "timestamp": "00:10",
+    "file": "transcript_06_CA626504e60c70c56565362b03dd57dfc8.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "2. Scheduling on closed days like weekends",
+    "agent_said": "The soonest available appointments are tomorrow, Thursday, July 2nd.",
+    "problem": "The agent offered appointments for the next day, but the current day is July 2nd, which implies the call is happening on July 1st or the office is closed on July 2nd for some reason, but the agent didn't clarify or offer alternative solutions for the same day.",
+    "expected": "The agent should have clearly stated the office hours for the current day and offered alternative solutions, such as urgent care or a different provider, if no same-day appointments are available.",
+    "timestamp": "01:30",
+    "file": "transcript_08_CAee423d2924b46632c76ec38f498d113d.txt"
+  },
+  {
+    "severity": "MEDIUM",
+    "type": "3. Misunderstanding patient requests",
+    "agent_said": "Would you like to create a demo patient profile so I can help you request an urgent appointment?",
+    "problem": "The agent asked for a demo patient profile despite the patient's urgent symptoms",
+    "expected": "The agent should have immediately advised the patient to go to the emergency room without asking for a demo patient profile",
+    "timestamp": "0:30",
+    "file": "transcript_09_CA0f3a83b25776bcfd073fe3990d5cc459.txt"
+  },
+  {
+    "severity": "LOW",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "for demo purposes",
+    "problem": "The agent exposed internal/demo language to the patient",
+    "expected": "The agent should not have mentioned 'for demo purposes' to the patient",
+    "timestamp": "0:50",
+    "file": "transcript_09_CA0f3a83b25776bcfd073fe3990d5cc459.txt"
+  },
+  {
+    "severity": "LOW",
+    "type": "5. Incomplete or confusing answers",
+    "agent_said": "I do not send information directly to the emergency room. Please let the staff know about your chest tightness and shortness of breath as soon as you arrive",
+    "problem": "The agent's response about not sending information to the emergency room might be confusing for the patient",
+    "expected": "The agent should have clearly explained that the patient should inform the emergency room staff about their symptoms upon arrival",
+    "timestamp": "1:40",
+    "file": "transcript_09_CA0f3a83b25776bcfd073fe3990d5cc459.txt"
+  },
+  {
+    "severity": "MEDIUM",
+    "type": "4. Not escalating urgent cases like chest pain",
+    "agent_said": "Would you like to create a demo patient profile so I can help you request an urgent appointment?",
+    "problem": "The agent did not immediately escalate the patient's urgent case",
+    "expected": "The agent should have immediately advised the patient to go to the emergency room without offering an urgent appointment",
+    "timestamp": "0:30",
+    "file": "transcript_09_CA0f3a83b25776bcfd073fe3990d5cc459.txt"
+  },
+  {
+    "severity": "MEDIUM",
+    "type": "3. Misunderstanding patient requests",
+    "agent_said": "Your demo patient profile is set up and your date of birth is July 4th 2000 for this example",
+    "problem": "The agent incorrectly set up the patient profile with the wrong date of birth",
+    "expected": "The agent should have asked for the patient's date of birth or confirmed it before setting up the profile",
+    "timestamp": "01:15",
+    "file": "transcript_10_CAc321ddc1d429a0030a8da1f38acc87b2.txt"
+  },
+  {
+    "severity": "LOW",
+    "type": "5. Incomplete or confusing answers",
+    "agent_said": "I don't have real-time insurance eligibility details, but most clinics do accept standard Blue Cross Blue Shield plans",
+    "problem": "The agent's response about insurance acceptance was incomplete and required the patient to check with the front desk or insurance provider",
+    "expected": "The agent should have provided more detailed information about insurance acceptance or offered to check the details",
+    "timestamp": "00:45",
+    "file": "transcript_10_CAc321ddc1d429a0030a8da1f38acc87b2.txt"
+  },
+  {
+    "severity": "MEDIUM",
+    "type": "3. Misunderstanding patient requests",
+    "agent_said": "I have your date of birth as July 4th, 1970",
+    "problem": "The agent still had incorrect date of birth information after the patient corrected it",
+    "expected": "The agent should have updated the patient's date of birth to the correct one",
+    "timestamp": "01:30",
+    "file": "transcript_10_CAc321ddc1d429a0030a8da1f38acc87b2.txt"
+  },
+  {
+    "severity": "LOW",
+    "type": "6. Unnatural conversation flow",
+    "agent_said": "Thanks for letting me know, Karen. I have your date of birth as July 4th, 1970",
+    "problem": "The conversation flow was unnatural as the agent repeated the incorrect date of birth",
+    "expected": "The agent should have apologized for the mistake and updated the date of birth",
+    "timestamp": "01:30",
+    "file": "transcript_10_CAc321ddc1d429a0030a8da1f38acc87b2.txt"
+  },
+  {
+    "severity": "MEDIUM",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "Your demo patient profile is set up and your date of birth is July 4th 2000 for this example",
+    "problem": "The agent exposed internal/demo language to the patient",
+    "expected": "The agent should not have mentioned the demo patient profile or internal example details",
+    "timestamp": "01:15",
+    "file": "transcript_10_CAc321ddc1d429a0030a8da1f38acc87b2.txt"
+  },
+  {
+    "severity": "LOW",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "Your patient profile is set up, and your date of birth is July 4, 2000, for demo purposes.",
+    "problem": "The agent exposed internal/demo language to the patient.",
+    "expected": "The agent should not have mentioned 'for demo purposes'.",
+    "timestamp": "00:20",
+    "file": "transcript_11_CA5597ffddc7ff65a9e6cc83105379ebe3.txt"
+  },
+  {
+    "severity": "MEDIUM",
+    "type": "2. Scheduling on closed days like weekends",
+    "agent_said": "The clinic support team will follow up with you soon about your metformin refill and the date of birth update.",
+    "problem": "The agent didn't specify the timeframe for the follow-up, which might be on a weekend or a closed day.",
+    "expected": "The agent should have specified the timeframe for the follow-up, e.g., 'within the next business day'.",
+    "timestamp": "01:45",
+    "file": "transcript_12_CAdc01cc5dff852ed05dc4ce1741c66eb8.txt"
+  },
+  {
+    "severity": "MEDIUM",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "Your patient profile is set up and your date of birth is July 4, 2000 for demo purposes.",
+    "problem": "The agent exposed internal/demo language to the patient",
+    "expected": "The agent should not have mentioned 'demo purposes' and instead focused on the patient's request",
+    "timestamp": "00:30",
+    "file": "transcript_13_CA2fac37acf141bab52b1d01019e0c5b9d.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "Before we get started, would you like to create a demo patient profile?",
+    "problem": "The agent exposed internal/demo language to the patient",
+    "expected": "The agent should not have mentioned 'demo patient profile' and instead asked for the patient's name in a more natural way",
+    "timestamp": "00:10",
+    "file": "transcript_14_CA497b3d0faa21c043351d95cbf356e703.txt"
+  },
+  {
+    "severity": "MEDIUM",
+    "type": "3. Misunderstanding patient requests",
+    "agent_said": "I don't see any upcoming appointments scheduled for you right now. Would you like to book a new appointment for this Friday?",
+    "problem": "The agent didn't correctly identify the patient's existing appointment",
+    "expected": "The agent should have found the patient's existing appointment and allowed them to reschedule",
+    "timestamp": "01:00",
+    "file": "transcript_14_CA497b3d0faa21c043351d95cbf356e703.txt"
+  },
+  {
+    "severity": "LOW",
+    "type": "6. Unnatural conversation flow",
+    "agent_said": "Your patient profile has been created, and your date of birth is July 4th 2000 for demo purposes",
+    "problem": "The agent's response was unnatural and included unnecessary information",
+    "expected": "The agent should have focused on the patient's request to reschedule their appointment",
+    "timestamp": "00:40",
+    "file": "transcript_14_CA497b3d0faa21c043351d95cbf356e703.txt"
+  },
+  {
+    "severity": "MEDIUM",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "Would you like to create a demo patient profile first?",
+    "problem": "The agent exposed internal/demo language to the patient",
+    "expected": "The agent should have proceeded with scheduling an appointment without mentioning a demo patient profile",
+    "timestamp": "00:05",
+    "file": "transcript_15_CA9ec9220b8d6ec9c126b5c8b927f24dff.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "An application error has occurred",
+    "problem": "The agent exposed internal error message to the patient",
+    "expected": "A more patient-friendly error message or escalation to a human representative",
+    "timestamp": "00:05",
+    "file": "transcript_17_CA2a7c6ea09f6928c84155463de31eb50c.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "An application error has occurred. Open my windows.",
+    "problem": "The agent exposed internal error messages and unrelated commands to the patient",
+    "expected": "A polite apology and an offer to retry or escalate the issue, without exposing internal language",
+    "timestamp": "02:56:00",
+    "file": "transcript_18_CA07c3802a87ecc43616d1b26b9ff730c4.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "An application error has occurred.",
+    "problem": "The agent exposed internal error message to the patient",
+    "expected": "A more patient-friendly error message or apology",
+    "timestamp": "02:55:36",
+    "file": "transcript_19_CAd08e61013eda223d5e869e05c0695c6b.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "An application error has occurred",
+    "problem": "The agent exposed internal error message to the patient",
+    "expected": "A more patient-friendly error message or escalation to a human representative",
+    "timestamp": "02:54:29",
+    "file": "transcript_20_CAede7eb297dd45b6c7515b806327d0b89.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "An application error has occurred",
+    "problem": "The agent exposed internal error message to the patient",
+    "expected": "A more patient-friendly error message or escalation to a human representative",
+    "timestamp": "02:54:05",
+    "file": "transcript_21_CAb6d33fca614e7279ab5fe62c386f86da.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "An application error has occurred.",
+    "problem": "The agent exposed internal error language to the patient.",
+    "expected": "A more patient-friendly error message, such as 'Sorry, we're experiencing technical difficulties. Please try again later.'",
+    "timestamp": "02:52:58",
+    "file": "transcript_22_CA9b4baca923f06de35d6a6c3a09faa09e.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "An application error has occurred.",
+    "problem": "The agent exposed internal error message to the patient",
+    "expected": "A more patient-friendly error message or escalation to a human representative",
+    "timestamp": "02:52:35",
+    "file": "transcript_23_CAc90fff9fea15a83861445700f1be4aaf.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "An application error has occurred.",
+    "problem": "The agent exposed internal error message to the patient",
+    "expected": "A more patient-friendly error message or apology",
+    "timestamp": "02:51:44",
+    "file": "transcript_24_CA07624efa988b38836832fd954cab8f12.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "An application error has occurred",
+    "problem": "The agent exposed internal error message to the patient",
+    "expected": "The agent should provide a user-friendly error message or escalate the issue",
+    "timestamp": "02:51:28",
+    "file": "transcript_25_CA5cd742fe0bbdfd6f015acde9c688abd3.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "An application error has occurred",
+    "problem": "The agent exposed internal error message to the patient",
+    "expected": "A more patient-friendly error message or escalation to a human representative",
+    "timestamp": "02:51:05",
+    "file": "transcript_26_CA4540009db0f48828b49a87c53731d379.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "An application error has occurred. Open your eyes. Goodbye.",
+    "problem": "The agent exposed internal error messages and unrelated phrases to the patient",
+    "expected": "A polite apology and a request to try again or contact a representative",
+    "timestamp": "02:50:14",
+    "file": "transcript_27_CA1e04f7b4e992ea6efc5edbf3f25932cb.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "Okay, my angels. Goodbye.",
+    "problem": "The agent exposed internal language to the patient",
+    "expected": "A polite apology and a request to try again or contact a representative",
+    "timestamp": "02:50",
+    "file": "transcript_28_CAa1690ac79c1b960a0d648e25dae570f9.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "An application error has occurred.",
+    "problem": "The agent exposed internal error message to the patient",
+    "expected": "A more patient-friendly error message or apology",
+    "timestamp": "02:49:35",
+    "file": "transcript_29_CA027704496a21b41a704ac5ae990be978.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "An application error has occurred.",
+    "problem": "The agent exposed internal error message to the patient",
+    "expected": "A more patient-friendly error message or apology",
+    "timestamp": "02:48:43",
+    "file": "transcript_30_CA97f34a3750918b418d543096a360a2ae.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "An application error has occurred.",
+    "problem": "The agent exposed internal error language to the patient",
+    "expected": "A more patient-friendly error message, such as 'Sorry, we're experiencing technical difficulties. Please try again later.'",
+    "timestamp": "02:48:29",
+    "file": "transcript_31_CA0bffa2e101e0591f2e3fb04504b7774e.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "An application error has occurred",
+    "problem": "The agent exposed internal error message to the patient",
+    "expected": "A more patient-friendly error message or apology",
+    "timestamp": "02:48:05",
+    "file": "transcript_32_CA022ff7beac91beedb8e24a63ae0f3141.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "An application error has occurred.",
+    "problem": "The agent exposed internal error message to the patient",
+    "expected": "A more patient-friendly error message or apology",
+    "timestamp": "02:47:13",
+    "file": "transcript_33_CA42a4b6d45816cec7ed35a95e79a61caa.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "An application error has occurred",
+    "problem": "The agent exposed internal error language to the patient",
+    "expected": "A more patient-friendly error message, such as 'Sorry, we're experiencing technical difficulties. Please try again later.'",
+    "timestamp": "02:46:58",
+    "file": "transcript_34_CA28ba5c6716d0679bed452ffd646a8963.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "The application error has occurred",
+    "problem": "The agent exposed internal error message to the patient",
+    "expected": "A more patient-friendly error message or escalation to a human representative",
+    "timestamp": "02:46:34",
+    "file": "transcript_35_CAcff595be2a4b7cae1101ce5c5e0f02d5.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "An application error has occurred.",
+    "problem": "The agent exposed internal error message to the patient",
+    "expected": "The agent should have provided a more patient-friendly error message or escalated the issue",
+    "timestamp": "02:45:42",
+    "file": "transcript_36_CAac59046357ba2d28c664ab033e5960a4.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "An application error has occurred. I know. Open your mind. Goodbye.",
+    "problem": "The agent exposed internal error messages and unclear phrases to the patient",
+    "expected": "A clear and apologetic error message, such as 'Sorry, we're experiencing technical difficulties. Please try again later.'",
+    "timestamp": "02:45:28",
+    "file": "transcript_37_CAc2afe869fdd4bedc04c7184bf9f5d8f5.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "An application error has occurred",
+    "problem": "The agent exposed internal error message to the patient",
+    "expected": "A more patient-friendly error message or escalation to a human representative",
+    "timestamp": "02:44:12",
+    "file": "transcript_38_CA1a6dedfcafcacbfaf9c3aa54f430e1c8.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "An application error has occurred",
+    "problem": "The agent exposed internal error message to the patient",
+    "expected": "A more patient-friendly error message or escalation to a human representative",
+    "timestamp": "02:43:58",
+    "file": "transcript_39_CAfc0977b4b8c970fbc800a9c07b644a5d.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "An application error has occurred.",
+    "problem": "The agent exposed internal error language to the patient.",
+    "expected": "A more patient-friendly error message, such as 'Sorry, we're experiencing technical difficulties. Please try again later.'",
+    "timestamp": "02:42:42",
+    "file": "transcript_40_CA68c341a56fe78c597aa6ee627d7e3249.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "An application error has occurred.",
+    "problem": "The agent exposed internal error message to the patient",
+    "expected": "A more patient-friendly error message or apology",
+    "timestamp": "02:42:27",
+    "file": "transcript_41_CA4af338d93bdc53896e1c07221c8b4218.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "An application error has occurred",
+    "problem": "The agent exposed internal error message to the patient",
+    "expected": "A more patient-friendly error message or escalation to a human representative",
+    "timestamp": "02:41:11",
+    "file": "transcript_42_CA46ab03e701b3bf2aac164f95c3282dd3.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "An application error has occurred",
+    "problem": "The agent exposed internal error message to the patient",
+    "expected": "A more patient-friendly error message or escalation to a human representative",
+    "timestamp": "02:40:59",
+    "file": "transcript_43_CAa451f569e287abfe89ece2bdc7ca20d8.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "The application error has occurred",
+    "problem": "The agent exposed internal error message to the patient",
+    "expected": "A more patient-friendly error message or apology",
+    "timestamp": "02:39:41",
+    "file": "transcript_44_CA74fa46db9dad0a763df508a92421ea7d.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "an application error has occurred",
+    "problem": "The agent exposed internal error language to the patient",
+    "expected": "A more patient-friendly error message, such as 'We're experiencing technical difficulties. Please try again later.'",
+    "timestamp": "00:05",
+    "file": "transcript_45_CAb56fd8f0318aee257a1d7cec35fa0994.txt"
+  },
+  {
+    "severity": "LOW",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "Para Espaol, good bye",
+    "problem": "The agent exposed internal/demo language to the patient",
+    "expected": "A greeting or introduction to the medical office AI voice agent",
+    "timestamp": "0:00",
+    "file": "transcript_46_CA10ed17550447cb9b642ddc9fa98255f3.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "An application error has occurred.",
+    "problem": "The agent exposed internal error message to the patient",
+    "expected": "A more patient-friendly error message or escalation to a human representative",
+    "timestamp": "02:32:09",
+    "file": "transcript_49_CA644eac233a9b6075c1bec13abcac0274.txt"
+  },
+  {
+    "severity": "LOW",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "Para Espaol, good bye",
+    "problem": "The agent exposed internal/demo language to the patient",
+    "expected": "A greeting or introduction to the medical office AI voice agent",
+    "timestamp": "0:00",
+    "file": "transcript_50_CAd78d54214d01409dac5cc93c6997eecf.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "An application error has occurred",
+    "problem": "The agent exposed internal error message to the patient",
+    "expected": "The agent should have provided a more patient-friendly error message or escalated the issue",
+    "timestamp": "02:24:32",
+    "file": "transcript_52_CAeec9fbfe82894b47ab8f5cceef08c639.txt"
+  },
+  {
+    "severity": "HIGH",
+    "type": "7. Exposing internal/demo language to patients",
+    "agent_said": "An application error has occurred",
+    "problem": "The agent exposed internal error message to the patient",
+    "expected": "A more patient-friendly error message or escalation to a human representative",
+    "timestamp": "05s",
+    "file": "transcript_58_CAee01ebd26ae580de6f4571ab4bb41394.txt"
+  },
+  {
+    "severity": "MEDIUM",
+    "type": "3. Misunderstanding patient requests",
+    "agent_said": "This call may be recorded for quality and training purposes, but I",
+    "problem": "The agent failed to respond to the patient's language preference",
+    "expected": "The agent should have responded with a message in Spanish or offered a language selection option",
+    "timestamp": "00:01",
+    "file": "transcript_59_CA590cb2a705f846af016f22f4ae75bf85.txt"
+  }
+]
